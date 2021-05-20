@@ -1,0 +1,2 @@
+ruby -v
+authenticate_or_request_with_http_basic
